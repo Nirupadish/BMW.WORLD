@@ -1,0 +1,35 @@
+.header{
+     padding-top: 30px;
+    text-align: center;
+}
+
+.mainhead{
+   
+    font-size:xxx-large;
+    font-weight: bold;
+}
+
+.mainpara1{
+    margin: 0px; 
+    padding-top: 20px;   
+}
+
+.section_car{
+    background-color: white;
+}
+
+.section_img{
+    height: 300px;
+    width: 300px;
+}
+
+.section_img1{
+    width: 300px;
+    height: 200px;
+}
+
+.lower{
+  background-color: aliceblue;
+  height: 50px;
+  align-items: center;
+}

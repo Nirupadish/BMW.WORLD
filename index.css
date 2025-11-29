@@ -1,0 +1,187 @@
+
+.img2{
+    height: 400px;
+    width: 500px;
+
+    transform: translate(50px, 50px);
+    animation: slide1 4s forwards;
+}
+@keyframes slide1 {
+  from {
+    transform: translate(20px, 700px);
+  }
+  to {
+    transform: translate(20px, 50px);
+  }
+}
+
+.full-page {
+    background-color: black;
+    height: 80vh;
+}
+
+.section {
+    transform: translate(50px, 50px);
+    animation: slide1 5s forwards;
+}
+@keyframes slide1 {
+  from {
+    transform: translate(20px, 700px);
+  }
+  to {
+    transform: translate(20px, 50px);
+  }
+}
+
+.head1{
+    font-size: 50px;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.para1{
+    font-size: 15px;
+    color: whitesmoke;
+}
+
+.button{
+  height: 50px;
+}
+
+.second{
+  text-align: center;
+  color: black;
+  background-color: whitesmoke;
+}
+
+.head2{
+  padding-top: 20px;
+  
+}
+
+.button{
+  border-style: solid;
+  border-color: black;
+  margin-bottom: 20px;
+
+}
+
+.para{
+  color: black;
+  padding-left: 40px ;
+}
+
+.imga{
+  height: 300px;
+  width: 700px;
+  transform: translate(20px, 20px);
+  animation: slide2  4s ;
+  animation-delay: 3s;
+}
+@keyframes slide2 {
+  from {
+    transform: translateX( 1000px);
+  }
+  to {
+    transform: translate( 10px);
+  }
+}
+
+/* .button1{
+  height: 40px;
+  width: 120px;
+} */
+
+.car1{
+  margin-top: 30px;
+}
+
+.imga1{
+  height: 300px;
+  width: 700px;
+  transform: translate(20px, 20px);
+  animation: slide  4s ;
+  animation-delay: 4s;
+}
+@keyframes slide {
+  from {
+    transform: translateX( -300px);
+  }
+  to {
+    transform: translate( 0);
+  }
+}
+
+.firstimg{
+  background-image: url('https://bmw.scene7.com/is/image/BMW/The%20New%202GC_16x7?qlt=80&wid=1024&fmt=webp');
+  height: 70vh;
+  background-size: cover;
+  color:white;
+}
+
+.Two{
+  font-size: 30px;
+}
+
+.empty{
+  background-color: white;
+  height: 25px;
+}
+
+.secondimg{
+  background-image: url('https://bmw.scene7.com/is/image/BMW/GKL_Web_Banner_3000_3000_new:3to1?fmt=webp&wid=2560&hei=853');
+  height: 70vh;
+  background-size: cover;
+}
+
+.LK{
+  padding-top: 250px;
+  padding-left: 100px;
+  color: white;
+}
+
+.button12{
+  color: white;
+  background-image: transperent ;
+  border-style: solid;
+  border-color: white;
+  
+}
+
+.thirdimg{
+  background-image: url('https://bmw.scene7.com/is/image/BMW/x3-mobile-banner-image-1:3to1?fmt=webp&wid=2560&hei=853');
+  height: 70vh;
+  background-size: cover;
+  width: 99vw;
+
+}
+
+.HG{
+  padding-top: 250px;
+  padding-left: 750px;
+  color: white;
+}
+
+.fourthimg{
+  background-image: url('https://bmw.scene7.com/is/image/BMW/3000x3000_1-1:3to1?fmt=webp&wid=2560&hei=853');
+  height: 70vh;
+  background-size: cover;
+  width: 100vw;
+}
+
+.niru{
+  height: 500px;
+  width: 600px;
+}
+
+.image58{
+  padding-left: 150px;
+  padding-right: 20px;
+}
+
+.lower{
+  background-color: aliceblue;
+  height: 50px;
+  align-items: center;
+}
+
